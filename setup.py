@@ -8,6 +8,6 @@ setup(
     author_email="al.ridolfi@laposte.fr",
     packages= ['roboticsEnv'],
     install_requires=[
-         
+        # websockets >= 12.0,
     ],
 )
